@@ -2,7 +2,7 @@
 >项目介绍
 
     读书在小米创作无极限 —— 这个口号一直是起点众多玄幻、魔幻、武侠、军文小说作者的创作目标，严谨的写作态度，锲而不舍的求新求变，与书友的直接沟通交流修改，从而小米有国内很多具有一流水平的原创作品，使书友得以在第一时间阅读到作者连载的好书佳作。
-
+---
 >技术栈
 ```
     gulp + require + handlebars + ES6 + ajax + 懒加载 + jsonp + flex + nodeJs
@@ -90,14 +90,9 @@
 >部分截图
 
 ![image](./pic/pic1.png)
-
 ![image](./pic/pic4.png)
-
 ![image](./pic/pic3.png)
-
 ![image](./pic/pic2.png)
-
 ![image](./pic/pic5.png)
-
 ![image](./pic/pic6.png)
 ---
